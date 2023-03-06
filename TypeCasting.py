@@ -1,0 +1,12 @@
+a=7.9
+print(a)
+print(type(a))
+b=87
+print(b)
+print(type(b))
+d=int(a)
+print(d)
+print(type(d))
+c='s'
+print(c)
+print(type(c))
